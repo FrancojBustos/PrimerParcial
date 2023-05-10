@@ -5,6 +5,7 @@ body {
 
 }
 
+
 .card-body {
     background-color:  rgb(69, 69, 113) ;
 
@@ -13,7 +14,7 @@ body {
     background-color: rgb(73, 37, 37);
     font-family: 'Times New Roman', Times, serif;
     font-size: 20px;
-    width: 1200px;
+    width: 1250px;
     height: 550px;
     margin-left: 45px;
     display: flex;
@@ -31,7 +32,7 @@ body {
     width: 290px;
     height: 290px;
     margin: 10px;
-    border: ridge white;
+    
     
 }
 .ig {
@@ -41,7 +42,7 @@ body {
     background-color: rgb(73, 37, 37);
 
     margin-left: 45px;
-  width: 1200px;
+  width: 1250px;
   height: 50px;
   display: flex;
   flex-direction: row;
@@ -77,4 +78,10 @@ body {
   margin: 10px;
   
 }
+img:hover {
+  transform: scale(1.2);
 
+}
+main {
+  width: 100%;
+}

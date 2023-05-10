@@ -1,0 +1,274 @@
+body {
+    background-color: rgb(14, 2, 2);
+    width: 100%;
+    height: 100%;
+
+}
+
+.card-body {
+    background-color:  rgb(69, 69, 113) ;
+
+}
+main {
+    margin-left: 25px;
+}
+.caja1 {
+    background-color: black;
+    margin-top: 30px;
+    margin-left: 45px;
+    width: 1200px;
+    height: 800px;
+    /*border: red solid ;*/
+    box-shadow: 2px 2px 20px rgb(219, 49, 49);
+}
+.caja1-A {
+    width: 1200px;
+    height: 100px;
+    /*border: orange solid;*/
+    display: flex;
+     justify-content: center ;
+     font-size: 50px;
+     color: aliceblue;
+}
+.caja1-B {
+    width: 1200px;
+    height: 100px;
+    /*border: black solid;*/
+    display: flex;
+     justify-content: center ;
+     font-size:30px;
+     color: aliceblue;
+}
+.caja1-C {
+    margin-top: 40px;
+    width: 1200px;
+    height: 50px;
+    /*border: pink solid;*/
+    display: flex;
+     justify-content: center ;
+     font-size: 24px;
+     color: aliceblue;
+}
+.caja1-D {
+    width: 200;
+    height: 600;
+    /*border: darkolivegreen solid;*/
+    display: flex;
+    justify-content: center;
+}
+
+.caja1-D1 {
+    width: 800;
+    height: 300;
+   /* border: red solid;*/
+}
+.caja1-E {
+    width: 200;
+    height: 100;
+    /*border: green solid;*/
+    display: flex;
+    justify-content: center;
+    color: #fff;
+    font-size: 24px;
+}
+.caja1-F {
+    width: 200;
+    height: 600;
+    /*border: darkolivegreen solid;*/
+    display: flex;
+    justify-content: center;
+    
+}
+.caja1-F1 {
+    width: 800px;
+    height: 300;
+    /*border: solid red;*/
+    display: flex;
+    justify-content: center;
+    color: #fff;
+    
+}
+.caja1-G {
+    width: 200;
+    height: 100;
+    /*
+    border: green solid;*/
+    display: flex;
+    justify-content: center;
+    color: #fff;
+    font-size: 24px;
+}
+.caja1-H {
+    width: 200;
+    height: 600;
+    /*border: darkolivegreen solid;*/
+    display: flex;
+    justify-content: center;
+}
+.caja1-H1 {
+    width: 800px;
+    height: 300;
+    /*border: solid red;*/
+    display: flex;
+    justify-content: center;
+    color: #fff;
+}
+.img-icon {
+    border-radius: 15px;
+    margin-left: 20px;
+    margin-right: 40px;
+    box-shadow: 2px 2px 20px rgba(116, 109, 109, 0.5);
+}
+.img-icon1 {
+    box-shadow: 2px 2px 20px rgba(116, 109, 109, 0.5);
+    border-radius: 45px;
+}
+footer {
+    background-color: black;
+    color: #fff;
+    margin-left: 70px;
+    width: 1200px;
+    height: 70px;
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+    box-shadow: 2px 2px 20px rgb(167, 154, 154);
+}
+@media(max-whidth: 900px){
+    body {
+        background-color: rgb(14, 2, 2);
+        width: 100%;
+        height: 100%;
+    
+    }
+    
+    .card-body {
+        background-color:  rgb(69, 69, 113) ;
+    
+    }
+    
+    .caja1 {
+        background-color: black;
+        margin-top: 30px;
+        margin-left: 45px;
+        width: 1200px;
+        height: 800px;
+        /*border: red solid ;*/
+        box-shadow: 2px 2px 20px rgb(219, 49, 49);
+    }
+    .caja1-A {
+        width: 1200px;
+        height: 100px;
+        /*border: orange solid;*/
+        display: flex;
+         justify-content: center ;
+         font-size: 50px;
+         color: aliceblue;
+    }
+    .caja1-B {
+        width: 1200px;
+        height: 100px;
+        /*border: black solid;*/
+        display: flex;
+         justify-content: center ;
+         font-size:30px;
+         color: aliceblue;
+    }
+    .caja1-C {
+        margin-top: 40px;
+        width: 1200px;
+        height: 50px;
+        /*border: pink solid;*/
+        display: flex;
+         justify-content: center ;
+         font-size: 24px;
+         color: aliceblue;
+    }
+    .caja1-D {
+        width: 200;
+        height: 600;
+        /*border: darkolivegreen solid;*/
+        display: flex;
+        justify-content: center;
+    }
+    
+    .caja1-D1 {
+        width: 800;
+        height: 300;
+       /* border: red solid;*/
+    }
+    .caja1-E {
+        width: 200;
+        height: 100;
+        /*border: green solid;*/
+        display: flex;
+        justify-content: center;
+        color: #fff;
+        font-size: 24px;
+    }
+    .caja1-F {
+        width: 200;
+        height: 600;
+        /*border: darkolivegreen solid;*/
+        display: flex;
+        justify-content: center;
+        
+    }
+    .caja1-F1 {
+        width: 800px;
+        height: 300;
+        /*border: solid red;*/
+        display: flex;
+        justify-content: center;
+        color: #fff;
+        
+    }
+    .caja1-G {
+        width: 200;
+        height: 100;
+        /*
+        border: green solid;*/
+        display: flex;
+        justify-content: center;
+        color: #fff;
+        font-size: 24px;
+    }
+    .caja1-H {
+        width: 200;
+        height: 600;
+        /*border: darkolivegreen solid;*/
+        display: flex;
+        justify-content: center;
+    }
+    .caja1-H1 {
+        width: 800px;
+        height: 300;
+        /*border: solid red;*/
+        display: flex;
+        justify-content: center;
+        color: #fff;
+    }
+    .img-icon {
+        border-radius: 15px;
+        margin-left: 20px;
+        margin-right: 40px;
+        box-shadow: 2px 2px 20px rgba(116, 109, 109, 0.5);
+    }
+    .img-icon1 {
+        box-shadow: 2px 2px 20px rgba(116, 109, 109, 0.5);
+        border-radius: 45px;
+    }
+    footer {
+        background-color: black;
+        color: #fff;
+        margin-left: 45px;
+        width: 1200px;
+        height: 70px;
+        display: flex;
+        justify-content: center;
+        padding-top: 20px;
+        box-shadow: 2px 2px 20px rgb(167, 154, 154);
+    }
+
+    
+}
